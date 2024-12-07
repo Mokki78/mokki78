@@ -7,7 +7,6 @@ It has been challenging, but also so much fun, and I have loved learning. Now I 
 
  <p>The assignments from these 2 years that I am the most proud of is</p>
 <ul>
-    <li>https://github.com/Mokki78/Github</li>
     <li>https://github.com/Noroff-FEU-Assignments/project-exam-1-Mokki78</li>
 </ul>
 <p> Fun fact: I love ☕, yoga, travelling, 🎵 & 📷 .</p>  
